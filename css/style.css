@@ -198,7 +198,8 @@ p {
     margin-top: -200px;
     margin-left: -200px;
     border-radius: 2px;
-    background: #efff00;
+    /* background: #fff; */
+    background: url(/images/main.gif);
     color: #fff;
 }
 
